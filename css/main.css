@@ -23,7 +23,7 @@ body {
   background-color: #fff;
 }
 
-img {
+  img {
   vertical-align: middle;
 }
 
@@ -95,7 +95,7 @@ header {
  }
 
  .box-services {
-   display: inline-block;
+
    width: 30%;
    margin-top: 63px;
  }
@@ -111,3 +111,16 @@ header {
    background: #373B47;
    color: #ffffff;
  }
+
+ .box-work{
+    box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    width:30%;
+    height: 30%;
+    margin-top: 10%;
+    margin-left: 3%
+}
+.box-work img{
+    width: 100%;
+}

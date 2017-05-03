@@ -33,14 +33,15 @@
     display: table;
 }
 
-.row:after {    
+.row:after {
     clear: both;
 
 }
 
 [class*="col-"] {
     float: left;
-    padding: 15px;
+    padding: 12px;
+    min-height: 7px;
     border: 1px solid pink;
 }
 .col-1 {width: 8.33%;}
