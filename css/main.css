@@ -25,6 +25,7 @@ body {
 
   img {
   vertical-align: middle;
+
 }
 
 a {
@@ -94,12 +95,6 @@ header {
    padding: 70px 7px;
  }
 
- .box-services {
-
-   width: 30%;
-   margin-top: 63px;
- }
-
  .text-services {
    font-size: 35px;
    letter-spacing: 2px;
@@ -115,7 +110,7 @@ header {
  .box-work{
     box-sizing: border-box;
     box-sizing: border-box;
-    display: inline-block;
+
     width:30%;
     height: 30%;
     margin-top: 10%;
